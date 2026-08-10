@@ -59,7 +59,8 @@ div.wide {max-width: 492px}
 }
 
 div.spacer{
-width: 1250px;
+width: 100%
+  max-width: 1250px;
 height: 50px;
 }
 
