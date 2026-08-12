@@ -15,7 +15,8 @@ width: 100%;
 
 div.main {
   margin: auto;
-
+width: 100%;
+  max-width: 1250px;
 }
 
 
