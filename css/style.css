@@ -110,7 +110,7 @@ h1 {
 text-transform: uppercase;
   font-family: Arial, Helvetica, sans-serif;
 font-stretch: condensed;
-  font-size:4.7vw;
+font-size: clamp(1rem, 4.7vw, 100px);
     font-weight: bold;
     margin-bottom: 0px;
   display: flex;
